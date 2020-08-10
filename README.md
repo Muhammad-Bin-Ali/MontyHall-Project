@@ -1,0 +1,8 @@
+# MontyHall-Project
+Coded proof for the Monty Hall Problem
+The python file serves as a way of understanding the Monty Hall problem. For some, it can be hard to wrap their heads around the stastical illusion which is why I created this script. The script helps people understand that switching your doors is indeed the stastically better choice. For those who are not familiar with the Monty Hall problem, it goes as follows:
+
+The problem is derived from a '70s show called "Let's Make a Deal". This show was hosted by a man named Monty Hall, which explains the name of the problem. In the game show, there would be three doors and behind one of the doors, there would be a prize. Monty initially tells you to pick a door, and after you have picked a door, Monty opens one of the remaining doors that does not have the prize behind it. Once Monty does that, you are left with only two doors: the one you picked, and another door. From here, Monty asks whether you want to switch the door that you picked or if you want to stick with your answer. This is where the statistical illusion occurs. Most people, at first glance, will assume that switching wouldn't matter since both doors have an equal chance of having the prize behind it. The reality is that stastically, switching your door can increase your chances of winning the prize two folds. I have included two links below that explain the problem in more detail. Esssentially, the script that I have created serves as proof that switching your doors is indeed the best option. 
+
+https://www.youtube.com/watch?v=9vRUxbzJZ9Y
+https://statisticsbyjim.com/fun/monty-hall-problem/
